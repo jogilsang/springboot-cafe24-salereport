@@ -15,6 +15,9 @@ local.properties
 .recommenders
 .target/
 
+# cafe24 환경값
+main/java/com/cafe24/gilsang/app/core/AppEnv.java
+
 # ignore properties file
 config.properties
 
