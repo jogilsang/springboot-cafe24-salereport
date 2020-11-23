@@ -12,5 +12,5 @@ public class AppEnv {
     public static final String APP_RETURN_URL = "https://jogilsang.xyz:7000/admin";//<-------------------------------- [App return url] 수정
     //app scope
     public static final String APP_SCOPE = "mall.read_salesreport";//<-------------------------------- [App scope] 수정
-
+    // test
 }
